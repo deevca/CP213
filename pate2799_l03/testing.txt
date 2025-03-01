@@ -1,0 +1,25 @@
+New Student:
+Name:       Brown, David
+ID:         123456
+Birthdate:  1962-10-25
+----------------------------------------
+Test Getters
+ID: 123456
+Surname: Brown
+Forename: David
+Birthdate: 1962-10-25
+----------------------------------------
+Test Setters
+Updated Student:
+Name:       Brian, Danny
+ID:         123457
+Birthdate:  1963-10-25
+----------------------------------------
+Test compareTo
+
+New Student:
+Name:       Deev, Patel
+ID:         169032
+Birthdate:  2004-12-18
+
+Compare: -2
